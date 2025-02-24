@@ -47,8 +47,8 @@
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/wickstudio/wick-mafia.git
-   cd wick-mafia
+   git clone https://github.com/higzzi/Mafia-Bot.git
+   cd Mafia-Bot
    ```
 
 2. **Install Dependencies:**
@@ -116,8 +116,8 @@
 
    ```
    Logged in as YourBotName#1234
-   Code by Wick Studio
-   discord.gg/wicks
+   Code by Deathrow
+
    ```
 
 ---
