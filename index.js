@@ -77,7 +77,6 @@ client.on('ready', () => {
         `);
     console.log(`Logged in as ${client.user.tag}`);
     console.log(`Code by Deathrow`);
-    console.log(`discord.gg/Deathrow`);
     resetGame();
 });
 
