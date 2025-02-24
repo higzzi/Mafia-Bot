@@ -1,27 +1,22 @@
-# Wick Mafia
+# Mafia
 
-![GitHub](https://img.shields.io/github/license/wickstudio/wick-mafia)
-![Discord.js](https://img.shields.io/badge/Discord.js-14.16.2-blue)
-![Node.js](https://img.shields.io/badge/Node.js-16.0.0-green)
 
-**Wick Mafia** is a feature-rich Discord bot that brings the classic Mafia game to your server. Engage your community in thrilling rounds of strategy, deception, and teamwork. Whether you're a seasoned Mafia player or new to the game, Wick Mafia offers an immersive experience for everyone.
+**Mafia** is a feature-rich Discord bot that brings the classic Mafia game to your server. Engage your community in thrilling rounds of strategy, deception, and teamwork. Whether you're a seasoned Mafia player or new to the game, Mafia offers an immersive experience for everyone.
 
 ---
 
 ## 📖 Table of Contents
 
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
 - [Configuration](#configuration)
-- [Usage](#usage)
   - [Commands](#commands)
   - [Gameplay](#gameplay)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
+
 
 ---
 
@@ -36,10 +31,6 @@
 - **Localization:** Supports Arabic and English for broader accessibility.
 
 ---
-
-## 🎥 Demo
-
-Check out our [YouTube Demo](https://youtu.be/QINI2qXVpy4) to see Wick Mafia in action!
 
 ---
 
@@ -69,7 +60,7 @@ Check out our [YouTube Demo](https://youtu.be/QINI2qXVpy4) to see Wick Mafia in 
 3. **Create a Discord Bot:**
 
    - Go to the [Discord Developer Portal](https://discord.com/developers/applications).
-   - Click on **"New Application"** and name it (e.g., Wick Mafia).
+   - Click on **"New Application"** and name it (e.g., Mafia).
    - Navigate to the **"Bot"** section and click **"Add Bot"**.
    - Copy the **Bot Token**. **Keep it secure!**
 
@@ -157,7 +148,7 @@ module.exports = {
 
 ---
 
-## 🚀 Usage
+
 
 ### 📜 Commands
 
@@ -264,16 +255,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 📫 Contact
-
-- **Author:** Wick Studio
-- **Email:** [wick@wick-studio.com](mailto:wick@wick-studio.com)
-- **GitHub:** [WickStudio](https://github.com/wickstudio)
-- **Discord:** [discord.gg/wicks](https://discord.gg/wicks)
-
-Feel free to reach out for any queries, feedback, or support!
-
----
 
 ## 💡 Future Enhancements
 
@@ -284,4 +265,4 @@ Feel free to reach out for any queries, feedback, or support!
 
 ---
 
-Thank you for choosing **Wick Mafia**! May the best team win. 🎭
+Thank you for choosing **Mafia**! May the best team win. 🎭
